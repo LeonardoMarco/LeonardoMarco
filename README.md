@@ -18,7 +18,7 @@ In my free time I like to watch football ⚽, play video games 🎮, play sports
 
 <hr />
 
-- Working with technologies:  Django, Golang, React.js, Next.js, PostgreSQL, Kubernetes e Google Cloud Platform
+- Working with technologies:  Django, Golang, React.js, Next.js, PostgreSQL, Kubernetes and Google Cloud Platform
 - Learning: Terraform, AWS
 
 <hr />

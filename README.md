@@ -12,20 +12,14 @@ feel free to connect to my  <a href="https://www.linkedin.com/in/leonardomarco/"
 ### Hi!
 #### Welcome to my profile! :smile:
 
-My name is Leonardo, I am currently living in Brazil 🇧🇷, in the city of Belo Horizonte 🚩. I'm 24 years old, I have a degree in Computer Science 🎓 from <a href="https://www.unibh.br/" target="_blank">UniBH</a>, and I'm currently working as a Full-stack Developer at <a href="https://amopromo.com" target="_blank">Amo promo</a>. In addition to being a developer, I also have the role of Tech Lead at the time of the <a href="https://segurospromo.com.br" target="_blank">SegurosPromo</a> product.
+My name is Leonardo, I am currently living in Brazil 🇧🇷, in the city of Belo Horizonte 🚩. I'm 27 years old, I have a degree in Computer Science 🎓 from <a href="https://www.unibh.br/" target="_blank">UniBH</a>, and I'm currently working as a Full-stack Developer at <a href="https://amopromo.com" target="_blank">Amo promo</a>. In addition to being a developer, I also have the role of Tech Lead at the time of the <a href="https://segurospromo.com.br" target="_blank">SegurosPromo</a> product.
 
 In my free time I like to watch football ⚽, play video games 🎮, play sports 🏅, and chat with my friends. ❤️
 
 <hr />
 
-- Working with technologies: Typescript, Golang, Python and PostgreSQL
-- Frameworks: React, Django
-- Learning: NextJS
-
-<hr />
- 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMarco&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+- Working with technologies:  Django, Golang, React.js, Next.js, PostgreSQL, Kubernetes e Google Cloud Platform
+- Learning: Terraform, AWS
 
 <hr />
 
